@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Miner</string>
+    <string name="tool">Tool</string>
+    <string name="toolx2">Tool x2</string>
+    <string name="toolx5">Tool x5</string>
+    <string name="toolx10">Tool x10</string>
+    <string name="toolx50">Tool x50</string>
+    <string name="select_tool">Select tool:</string>
+    <string name="select">Select</string>
+    <string name="x1"> </string>
+    <string name="x2">10 000</string>
+    <string name="x5">60 000</string>
+    <string name="x10">140 000</string>
+    <string name="x50">250 000</string>
+    <string name="successful_pucchase">Successful pucchase</string>
+    <string name="back">Back</string>
+    <string name="ok">Ok</string>
+    <string name="plus">+</string>
+    <string name="tool_selection">Tool selection</string>
+    <string name="shop">Shop</string>
+    <string name="money">money</string>
+</resources>
